@@ -6,6 +6,7 @@ public class Principal {
     /**
      * Primer metodo que se ejecutara en la aplicacion
      * @param args
+     * Complejidad temporal: O(1) Complejidad Constante
      */
     public static void main (String [] args){
 
